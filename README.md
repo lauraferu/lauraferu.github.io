@@ -1,11 +1,23 @@
 # Laura Fernández de Uña
 I am a plant ecophysiologist with an expertise on how tree-intrinsic (e.g., height) and environmental factors, particularly water availability, drive tree physiology and phenology. 
 # Publications
+Spennati E., Mencuccini M., Ramirez-Valiente J.A., Fernández-de-Uña L. (2026) Functional responses to increasing tree height within and between trees and their potential drivers. Annals of Botany, 138: 1094–1105. https://doi.org/10.1093/aob/mcag145
+
+Fernández-de-Uña L., Rathgeber C.B.K., Pérez-de-Lis G., Andrianantenaina A.N., Cuntz M. (2026) Tree-ring structure determines the temporal coordination between xylem growth and the gain in hydraulic conductivity in the outermost ring. New Phytologist, 250: 3732–3746.  https://doi.org/10.1111/nph.71161
+
+Zhang Q., Zhang J., Adams M.A., Battipaglia G., Cernusak L.A., Fernández-de-Uña L., Ficklin D.L., Hietz P., Camarero J.J., Jungner H., Lévesque M., Manzoni S., Maxwell J.T., Nock C.A., Peñuelas J., Puettmann K.J., Saurer M., Urrutia-Jalabert R., van der Sleen P., Wang L., Way D.A., Zhou Y., Zuidema P.A., Katul G.G. (2026) Increased efficiency of water use does not stimulate tree productivity. Nature Climate Change, 16: 87–94. https://doi.org/10.1038/s41558-025-02504-w
+
+Almagro D., Martin-Benito D., Rossi S., Conde García M., Fernández de Uña L., Gea-Izquierdo G. Long-term cambial phenology reveals diverging growth responses of two tree species in a mixed forest under climate change. Global Change Biology, 31: e70503. https://doi.org/10.1111/gcb.70503
+
+Poyatos R., Flo V., Fernández de Uña L., Fatecha B., Granda V., Mencuccini M., Martínez-Vilalta J. (2025) Sap flow monitoring in environmental research networks: lessons learned from SAPFLUXNET and challenges for the future. Acta Horticulturae, 1419:  41-50.  https://doi.org/10.17660/ActaHortic.2025.1419.6
+
 Fernández de Uña L., Martínez-Vilalta J., Poyatos R., Mencuccini M., McDowell N.G. (2023) The role of height-driven constraints and compensations on tree vulnerability to drought. New Phytologist, 239: 2083–2098. https://doi.org/10.1111/nph.19130
 
 McDowell N.G., Anderson-Teixeira K., Biederman J.A., Breshears D.D., Fang Y., Fernández-de-Uña L., Graham E.B., Mackay D.S., McDonnell J.J., Moore G.W., Nehemy M.F., Stevens Rumann C.S., Stegen J. Tague N., Turner M.G., Chen X. (2023) Ecohydrological decoupling under changing disturbances and climate. One Earth, 6: 251-266. https://doi.org/10.1016/j.oneear.2023.02.007
 
 Wang W., Zhang P., Zhang H., Grossiord C., Pennington S.C., Norwood M.J., Li W., Pivovaroff A.L., Fernández-de-Uña L., Leff R., Yabusaki S.B., Waichler S., Bailey V.L., Ward N.D., McDowell N.G. (2022) Severe declines in hydraulic capacity and associated carbon starvation drive mortality in seawater exposed Sitka-spruce (Picea sitchensis) trees. Environmental Research Communications, 4: 035005. https://doi.org/10.1088/2515-7620/ac5f7d
+
+Rathgeber C.B.K., Pérez-de-Lis G., Fernández-de-Uña L., Fonti P., Rossi S., Treydte K., Gessler A., Deslauriers A., Fonti M.V., Ponton S. (2022) Anatomical, developmental and physiological bases of tree-ring formation in relation to environmental factors. En: Stable Isotopes in Tree Rings. Inferring Physiological, Climatic and Environmental Responses. Eds.: R.T.W. Siegwolf, J. R. Brooks, J. Roden, M. Saurer. Springer Nature. https://doi.org/10.1007/978-3-030-92698-4_3
 
 Pérez-de-Lis G., Rathgeber C.B.K., Fernández-de-Uña L., Ponton S. (2022) Cutting tree rings into time slices: how intra-annual dynamics of wood formation help decipher the space-for-time conversion. New Phytologist, 233: 1520-1534. https://doi.org/10.1111/nph.17869
 
