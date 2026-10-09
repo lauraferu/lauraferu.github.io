@@ -39,4 +39,4 @@ Fernández de Uña L., Cañellas I., Gea-Izquierdo G. (2015) Stand competition d
 
 Gea-Izquierdo G., Fernández de Uña L., Cañellas I.  (2013) Growth projections reveal local vulnerability of Mediterranean oaks with rising temperatures. Forest Ecology and Management, 305: 282-293. https://doi.org/10.1016/j.foreco.2013.05.058
 
-Jovellar Lacambra L.C., Fernández de Uña L., Mezquita Santos M., Bolaños López de Lerma F., Escudero San Emeterio V.  (2013) Structural characterization and analysis of the regeneration of woodlands dominated by Juniperus oxycedrus L. in west-central Spain. Plant Ecology, 214: 61-73 (*Shared first authorship). https://doi.org/10.1007/s11258-012-0146-x
+Jovellar Lacambra L.C., Fernández de Uña L., Mezquita Santos M., Bolaños López de Lerma F., Escudero San Emeterio V.  (2013) Structural characterization and analysis of the regeneration of woodlands dominated by Juniperus oxycedrus L. in west-central Spain. Plant Ecology, 214: 61-73. https://doi.org/10.1007/s11258-012-0146-x
